@@ -73,6 +73,13 @@ If you have knowledge in some of my topics of interest, please share it with me 
 [<img align="left" width="26px" height="26px" alt="Assembly" src="https://p7.hiclipart.com/preview/865/551/589/intel-central-processing-unit-computer-icons-android-free-microprocessor-icon-png.jpg" />][asm]
 [<img align="left" width="26px" height="26px" alt="VHDL" src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/0a/b7/38/0ab73871-58ea-04eb-021e-1b0ba945854d/AppIcon-0-1x_U007emarketing-0-0-85-220-0-4.png/400x400.png" />][vhdl]
 
+<br>
+<br>
+<br>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamuric&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Kamber's Public Github Stats">
+</p>  
 
 [flutter]: https://flutter.dev/
 [android]: https://developer.android.com/
