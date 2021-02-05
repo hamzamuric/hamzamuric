@@ -19,7 +19,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 [<img align="left" width="26px" height="26px" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />][flutter]
 [<img align="left" width="26px" height="26px" alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/APK_format_icon.png/768px-APK_format_icon.png" />][android]
 [<img align="left" width="26px" height="26px" alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" />][svelte]
-[<img align="left" width="26px" height="26px" alt="React" src="https://ddo0fzhfvians.cloudfront.net/uploads/icons/png/20167174151551942641-512.png" />][react]
+[<img align="left" width="26px" height="26px" alt="React" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />][react]
 [<img align="left" width="26px" height="26px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][redux]
 [<img align="left" width="26px" height="26px" alt="Node" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" />][node]
 [<img align="left" width="26px" height="26px" alt="Deno" src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/deno-512.png" />][deno]
@@ -66,6 +66,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 [<img align="left" width="26px" height="26px" alt="Scala" src="https://image.flaticon.com/icons/png/512/919/919834.png" />][scala]
 [<img align="left" width="26px" height="26px" alt="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png" />][ruby]
 [<img align="left" width="26px" height="26px" alt="OCaml" src="https://ocaml.org/img/OCaml_Sticker.svg" />][ocaml]
+[<img align="left" width="26px" height="26px" alt="ReasonML" src="https://miro.medium.com/max/400/1*rFOtAIWjbeAyNNFcW029bQ.png" />][reason]
 [<img align="left" width="26px" height="26px" alt="Clojure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Clojure_logo.svg/1024px-Clojure_logo.svg.png" />][clojure]
 [<img align="left" width="32px" height="26px" alt="Haskell" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/1280px-Haskell-Logo.svg.png" />][haskell]
 [<img align="left" width="26px" height="26px" alt="Elixir" src="https://avatars2.githubusercontent.com/u/1481354?s=200&v=4" />][elixir]
@@ -108,6 +109,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 [scala]: https://www.scala-lang.org/
 [ruby]: https://www.ruby-lang.org/
 [ocaml]: https://ocaml.org/
+[reason]: https://reasonml.github.io/
 [clojure]: https://clojure.org/
 [haskell]: https://www.haskell.org/
 [elixir]: https://elixir-lang.org/
