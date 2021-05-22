@@ -17,7 +17,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 #### Frameworks and libraries
 
 [<img align="left" width="26px" height="26px" alt="Flutter" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />][flutter]
-[<img align="left" width="26px" height="26px" alt="Android" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/APK_format_icon.png/768px-APK_format_icon.png" />][android]
+[<img align="left" width="26px" height="26px" alt="Android" src="https://koamtac.com/wp-content/uploads/android_logo-768x768.png" />][android]
 [<img align="left" width="26px" height="26px" alt="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" />][svelte]
 [<img align="left" width="26px" height="26px" alt="React" src="https://miro.medium.com/max/500/1*cPh7ujRIfcHAy4kW2ADGOw.png" />][react]
 [<img align="left" width="26px" height="26px" alt="Redux" src="https://cdn.iconscout.com/icon/free/png-512/redux-283024.png" />][redux]
@@ -35,7 +35,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 [<img align="left" width="26px" height="26px" alt="JavaScript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />][javascript]
 [<img align="left" width="26px" height="26px" alt="TypeScript" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" />][typescript]
 [<img align="left" width="26px" height="26px" alt="Dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/768px-Dart-logo.png" />][dart]
-[<img align="left" width="26px" height="26px" alt="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin-logo.svg/1024px-Kotlin-logo.svg.png" />][kotlin]
+[<img align="left" width="26px" height="26px" alt="Kotlin" src="https://logos-download.com/wp-content/uploads/2016/10/Kotlin_logo-700x700.png" />][kotlin]
 [<img align="left" width="26px" height="26px" alt="Python" src="https://www.jing.fm/clipimg/full/53-537670_python-png-file-python-logo-png.png" />][python]
 [<img align="left" width="26px" height="26px" alt="Java" src="https://cdn.freebiesupply.com/logos/large/2x/java-logo-png-transparent.png" />][java]
 [<img align="left" width="26px" height="26px" alt="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png" />][bash]
@@ -55,7 +55,7 @@ If you have knowledge in some of my topics of interest, please share it with me 
 
 #### Languages I can use but don't
 
-[<img align="left" width="26px" height="26px" alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" />][cs]
+[<img align="left" width="26px" height="26px" alt="C#" src="https://i.pinimg.com/originals/49/40/01/49400189e00f633ddc2efd37a1f14817.png" />][cs]
 [<img align="left" width="32px" height="26px" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" />][php]
 
 <br>
