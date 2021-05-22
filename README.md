@@ -9,9 +9,6 @@ I like designing, making and learning programming languages.
 
 I'm also interested in systems programing (OS development, embedded programming, etc.).
 
-If you are beginner in any of topics bellow, ask me anything, I'm happy to give you the answer if I have it.
-If you have knowledge in some of my topics of interest, please share it with me :D.
-
 ### Skills
 
 #### Frameworks and libraries
