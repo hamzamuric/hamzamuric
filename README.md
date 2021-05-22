@@ -80,7 +80,13 @@ If you have knowledge in some of my topics of interest, please share it with me 
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzamuric&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="Kamber's Public Github Stats">
-</p>  
+</p>
+
+<br>
+
+### My Monero
+
+<img src="" alt="83f7onncpyHGRHY3UJFgTidgVqaQ181mHee3XShFvqy53ANsHQou19f2aStbfh19F8NncBY5r7xhEGSANVYJHWw66nL7Xyg" />
 
 [flutter]: https://flutter.dev/
 [android]: https://developer.android.com/
